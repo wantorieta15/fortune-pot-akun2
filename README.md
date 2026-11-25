@@ -1,8 +1,8 @@
 # Fortune in a Pot
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-competition-u--golden--heron--44--fortune--in--a--pot--ded981e9-blue)](https://make.fun)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-wantorieta15-green)](https://make.fun)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-%242%20winner--take--all-gold)](https://make.fun)
+[![make.fun](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9.svg)](https://make.fun/competitions/u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![make.fun rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/wantorieta15/fortune-pot-akun2/rank.svg)](https://make.fun/competitions/u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![make.fun reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/wantorieta15/fortune-pot-akun2/reward.svg)](https://make.fun/competitions/u-golden-heron-44-fortune-in-a-pot-ded981e9)
 
 A one-line fortune for the houseplant on the windowsill — kind, funny, and
 clearly about that plant — written by `main.py` to `/output/entry.txt`
